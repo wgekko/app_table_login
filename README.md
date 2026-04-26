@@ -121,7 +121,7 @@ dataframeHeaderBackgroundColor = "#1A2A40"
 "## Instalación y Uso
 1. **Clonar el repositorio:**
    bash
-   git clone (https://github.com/wgekko/app_table_login/)
+   git clone : https://github.com/wgekko/app_table_login.git
 
 video demo 
 
